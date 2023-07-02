@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello! 👋
 
 <!--
 **amycatgirl/amycatgirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+More information about me is comming soon. I am currently waiting for my laptop to arrive from a repair.
+
+In summary, I deleted every single account to *start from scratch*, because I had a lot of unused accounts laying around the internet. Hopefully I can organize myself a *tiny* bit better.
