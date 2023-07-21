@@ -1,4 +1,4 @@
-## Hello! 👋
+# Hello, World! 👋
 
 <!--
 **amycatgirl/amycatgirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-More information about me is comming soon. I am currently waiting for my laptop to arrive from a repair.
+I am **Amy**, a 16 year old transfemme who *loves* coding and making apps out of thin air!
 
-In summary, I deleted every single account to *start from scratch*, because I had a lot of unused accounts laying around the internet. Hopefully I can organize myself a *tiny* bit better.
+A blog and a personal website are coming soon!
+
+Below are some fun facts about me:
+- ⚡ My main programming languages are Javascript and Typescript
+- 🐈 I love cats, red pandas and foxes!
+- ✨ I am currently learning C# to make GUI applications with .NET and WinUI
+- 😄 My pronouns are She/Her, but you can use They/Them as well!
+- 📫 I have a mastodon account! It's [@amycatgirl@mastodon.social](https://mastodon.social/@amycatgirl) if you want to follow me
+- :3 I use ASCII emojis a lot! I also overuse :3 (silly me ;3)
+- :octocat: I previously had a Github Account, but I deleted it (along side a couple dozen accounts)
+- 💻 I have a Lenovo Thinkpad P43s, equipped with a NVidia Quadro P520, an Intel Core 9 (10th gen) and 32 GB of RAM
+- ⌨️ I use VSCode as my main code editor, but I prefer Visual Studio 2023
