@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am **Amy**, a 16 year old transfemme who *loves* coding and making apps out of thin air!
 
-A blog and a personal website are coming soon!
+A blog is coming soon!
 
 Below are some fun facts about me:
 - ⚡ My main programming languages are Javascript and Typescript
@@ -29,3 +29,5 @@ Below are some fun facts about me:
 - :octocat: I previously had a Github Account, but I deleted it (along side a couple dozen accounts)
 - 💻 I have a Lenovo Thinkpad P43s, equipped with a NVidia Quadro P520, an Intel Core 9 (10th gen) and 32 GB of RAM
 - ⌨️ I use VSCode as my main code editor, but I prefer Visual Studio 2023
+
+Website: [amycatgirl/website](https://amycatgirl.codeberg.page/website)
