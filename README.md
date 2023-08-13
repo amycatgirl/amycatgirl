@@ -24,7 +24,7 @@ Below are some fun facts about me:
 - 🐈 I love cats, red pandas and foxes!
 - ✨ I am currently learning C# to make GUI applications with .NET and WinUI
 - 😄 My pronouns are She/Her, but you can use They/Them as well!
-- 📫 I have a mastodon account! It's [@amycatgirl@mastodon.social](https://mastodon.social/@amycatgirl) if you want to follow me
+- 📫 I have a mastodon account! It's [@amycatgirl@tech.lgbt](https://tech.lgbt/@amycatgirl) if you want to follow me
 - :3 I use ASCII emojis a lot! I also overuse :3 (silly me ;3)
 - :octocat: I previously had a Github Account, but I deleted it (along side a couple dozen accounts)
 - 💻 I have a Lenovo Thinkpad P43s, equipped with a NVidia Quadro P520, an Intel Core 9 (10th gen) and 32 GB of RAM
