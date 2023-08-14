@@ -30,4 +30,4 @@ Below are some fun facts about me:
 - 💻 I have a Lenovo Thinkpad P43s, equipped with a NVidia Quadro P520, an Intel Core 9 (10th gen) and 32 GB of RAM
 - ⌨️ I use VSCode as my main code editor, but I prefer Visual Studio 2023
 
-Website: [amycatgirl/website](https://amycatgirl.codeberg.page/website)
+Website: [amycatgirl/webpage](https://amycatgirl.codeberg.page/webpage)
