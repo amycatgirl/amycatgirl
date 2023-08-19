@@ -31,4 +31,7 @@ Below are some fun facts about me:
 - ⌨️ I use VSCode as my main code editor, but I prefer Visual Studio 2023
 
 Website: [amycatgirl/webpage](https://amycatgirl.codeberg.page/webpage)
+
 Codeberg: [amycatgirl](https://codeberg.org/amycatgirl)
+
+Keyoxide Profile: [Amy on Keyoxide](https://keyoxide.org/C06DA7108B681ADA8B600C73277769D4E94D64FF)
