@@ -34,4 +34,4 @@ Website: [amycatgirl/webpage](https://amycatgirl.codeberg.page/webpage)
 
 Codeberg: [amycatgirl](https://codeberg.org/amycatgirl)
 
-Keyoxide Profile: [Amy on Keyoxide](https://keyoxide.org/C06DA7108B681ADA8B600C73277769D4E94D64FF)
+Keyoxide Profile: [Amy Perez on Keyoxide](https://keyoxide.org/69B16E07197B70AA62541F28922310468A8C2A8F)
